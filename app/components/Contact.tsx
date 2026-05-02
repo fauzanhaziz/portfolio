@@ -90,7 +90,7 @@ export default function Contact() {
 
       <div className="max-w-5xl mx-auto px-6 mt-24 pt-8 border-t border-white/5">
         <p className="text-zinc-600 text-sm font-mono">
-          © 2025 Fauzan Haziz — Built with Next.js & Tailwind CSS
+          © 2026 Fauzan Haziz — Built with Next.js & Tailwind CSS
         </p>
       </div>
     </section>

@@ -245,6 +245,7 @@ export default function Hero() {
                 src="/images/profile1.jpeg"
                 alt="Fauzan Haziz"
                 fill
+                sizes="(max-width: 768px) 224px, 288px"
                 className="object-cover"
                 priority
               />
