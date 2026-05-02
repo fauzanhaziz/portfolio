@@ -5,9 +5,9 @@ import Image from 'next/image';
 
 const ROLES = [
   'Software Developer',
-  'Backend Engineer',
+  'Web Developer',
   'ML Enthusiast',
-  'Python Developer',
+  'AI Enthusiast',
 ];
 
 export default function Hero() {
@@ -158,7 +158,7 @@ export default function Hero() {
             >
               Building web applications & intelligent systems using{' '}
               <span className="text-[#00ff88]">Python</span>,{' '}
-              <span className="text-[#00ff88]">Django</span>, and{' '}
+              <span className="text-[#00ff88]">Next.js</span>, and{' '}
               <span className="text-[#00ff88]">Machine Learning</span>.
             </p>
 
